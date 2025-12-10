@@ -43,3 +43,19 @@
 * **Caching:** Comandos (`cache`, `persist`) para armazenar DataFrames frequentemente usados na memória.
 * **Funções Definidas pelo Usuário (UDFs):** Funções personalizadas em Python que o Spark pode executar.
 * **Modos de Execução (Lazy Evaluation):** O conceito de que o Spark só executa o código quando um comando de "ação" (como `show()`) é chamado.
+
+### **Links Uteis**
+
+https://docs.python.org/pt-br/3/glossary.html#glossary
+
+https://docs.python.org/pt-br/3/tutorial/index.html
+
+https://spark.apache.org/docs/latest/api/python/user_guide/index.html
+
+https://spark.apache.org/docs/latest/api/python/index.html
+
+https://www.w3schools.com/python/default.asp
+
+https://www.w3schools.com/python/python_exercises.asp
+
+https://github.com/andressa-mangolin/pyspark-fundamentos-e-pratica/tree/main/docs
